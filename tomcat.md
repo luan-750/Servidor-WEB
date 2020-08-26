@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=fqR5SymRgLQ&list=PLbEOwbQR9lqyGUhHQHEBXxeBbE1jq8
 ![app1](https://github.com/luan-750/Servidor-WEB/blob/master/imagens/app1.png.png)
 ![app2](https://github.com/luan-750/Servidor-WEB/blob/master/imagens/app2.png.png)
 ## Print do Workbench acessando o Servidor Tomcat:
-![sql e tomcat](https://github.com/luan-750/Servidor-WEB/blob/master/imagens/app2.png.png)
+![sql e tomcat](https://github.com/luan-750/Servidor-WEB/blob/master/imagens/sqltomcat.png.png)
